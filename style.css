@@ -26,6 +26,12 @@ a{
   color: #fff;
 }
 
+#hero{
+  border-bottom-left-radius: 80px;
+  border-top-right-radius: 80px;
+
+}
+
 @media(min-width: 768px){
   #hamburger-section{
     display: none;
